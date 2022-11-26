@@ -1,0 +1,46 @@
+* {
+    font-family: "Dangrek";
+}
+
+.title {
+    color: blue;
+    font-size: 100px;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+#pizza, #ramen, #dumpling {
+    font-size: 50px;
+}
+
+h2 {
+    background-color: green;
+}
+p {
+    background-color: black;
+}
+p.red {
+    color: red;
+}
+
+p.orange {
+    color: orange;
+}
+
+p.beige {
+    color: beige;
+}
+ul, ol {
+    background-color: yellow;
+}
+
+ul li {
+    background-color: red;
+}
+
+ol li {
+    background-color: blue;
+}
